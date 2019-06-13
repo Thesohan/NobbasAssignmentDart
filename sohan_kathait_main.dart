@@ -3,11 +3,7 @@
 * created-On - 13-Jun-2019, Thu
 * Email - sohan.cse16@nituk.ac.in
 * PhoneNo. - 8126583671
-<<<<<<< HEAD
-* Location - Dehradun, Uttarakahnd, India
-=======
 * Location - Dehradun, Uttarakhand, India
->>>>>>> 49b1fece173ea9867bc1b0e5d6adbcfaed5d31d2
 * 
 * */
 
